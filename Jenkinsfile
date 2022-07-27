@@ -39,5 +39,9 @@ def getDockerTag(){
     def tag  = sh script: 'git rev-parse HEAD', returnStdout: true
     return tag
 }
+<<<<<<< HEAD
 hello wellcome to jenkins 
 new comments to jenkins
+=======
+hello wellcome to jenkins 
+>>>>>>> parent of 33e51e7 (jenkinsfile)

@@ -40,4 +40,3 @@ def getDockerTag(){
     return tag
 }
 hello wellcome to jenkins 
-wellcome to jenkines
